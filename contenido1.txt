@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>Call of Duty WWII</title>
-<br> <font  face='Arial' color='' style= "font-size: 30px;">Activision muestra las claves para conseguir que <br>
-Call of Duty WWII sea el juego definitivo <br>de la Segunda Guerra Mundial
-</font> 
-
-</head>
-</html>

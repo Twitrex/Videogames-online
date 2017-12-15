@@ -1,0 +1,10 @@
+<a href="juego.html"> <font face='Arial, Helvetica' color='#ffffff'>
+has click qui para jugar 
+</font> </a>
+
+<br>
+<br>
+<a href="introducion.html"> <font face='Arial, Helvetica' color='#ffffff'>
+acerca nuestro juego 
+</font> </a>
+
